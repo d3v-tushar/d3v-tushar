@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohsin Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">Full Stack Developer From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3v-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="d3v-tushar" /> </p>
