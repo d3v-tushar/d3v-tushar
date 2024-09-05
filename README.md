@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3v-tushar" alt="d3v-tushar" /></a> </p>
 
-- 🔭 I’m currently working on [ZEmporium-Ecommerce](https://github.com/d3v-tushar/zemporium-ecommerce)
+- 🔭 I’m currently working on [MegaTech LMS](https://github.com/d3v-tushar/mega-techs)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Kubernates**
 
 - 👨‍💻 All of my projects are available at [https://tushar-dev-portfolio.netlify.app/](https://tushar-dev-portfolio.netlify.app/)
 
-- 💬 Ask me about **JavaScript, Typescript, ReactJS, NodeJS, MongoDB**
+- 💬 Ask me about **JavaScript, Typescript, ReactJS, NodeJS, MongoDB, SQL, Postgress, Docker, React Native, Angular**
 
 - 📫 How to reach me **md.mohsinahmed@outlook.com**
 
