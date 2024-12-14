@@ -21,21 +21,26 @@
 - React, Next.js, Angular, React Native
 - Tailwind CSS, Bootstrap, ShadeCN UI
 - Chart.js, Recharts, Highcharts
+- PWA (Progressive Web Apps)
 
 ### **Backend Development**
 - Node.js, Bun.js, Kafka
 - Express.js, Hono.js
 - Java (Spring Boot)
 - RESTful APIs, GraphQL
+- WebSocket, SSE (Server-Sent Events)
+- BullMQ (Task Queue)
 
 ### **Databases**
 - PostgreSQL, MongoDB, MySQL, SQLite
 - Mongoose, Prisma, Drizzle ORM
+- **pg_vector** (PostgreSQL extension for vector similarity search)
 
 ### **DevOps & Tools**
 - Docker, Docker Compose
 - Nginx, Redis
 - Git, GitHub Actions
+- Jira
 
 ### **Cloud & Hosting**
 - AWS S3, Firebase, Vercel, Netlify
@@ -44,10 +49,15 @@
 ### **State Management**
 - Redux, Zustand, Context API
 
+### **Authentication & Security**
+- OAuth, JWT, Firebase Auth
+- Passport.js
+
 ### **Others**
-- Authentication (OAuth, JWT, Firebase Auth)
 - Testing (Jest, Mocha, Cypress)
 - Data Visualization & Dashboards
+- Task Queues & Background Jobs (BullMQ)
+- Workflow Management (Jira)
 
 ---
 
