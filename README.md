@@ -1,87 +1,84 @@
-# Hi there, I'm Tushar! 👋
+# Hi there, I'm Tushar! 👋  
 
-🌟 Welcome to my GitHub profile! I'm a passionate **Software Developer** from **Bangladesh**, currently working at **Bhalow Inc.** I specialize in building scalable, efficient, and user-friendly applications. With expertise across multiple modern technologies and tools, I am committed to writing clean, maintainable code that powers innovative solutions.
+🌟 Welcome to my GitHub profile! I am a passionate **Software Developer** from **Bangladesh**, currently working at **Bhalow Inc.** I specialize in developing **scalable, efficient, and user-friendly** applications. With expertise across multiple modern technologies, I strive to build high-quality software solutions that make a difference.  
 
----
+---  
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 💻 I specialize in **Full-Stack Web Development** and **Backend Engineering**.
-- 🌱 Constantly learning and exploring new technologies to enhance my skill set.
-- 🛠️ Currently focused on building robust systems and exploring lightweight frameworks.
+- 💻 **Full-Stack Developer & Backend Engineer** with a strong focus on building **robust** and **scalable** systems.  
+- 🌱 Passionate about **learning new technologies** and staying up-to-date with industry trends.  
+- 🛠️ Currently exploring **lightweight frameworks** and **performance optimization techniques**.  
+- 🤝 Open to **collaborations, freelance opportunities, and open-source contributions**.  
 
----
+---  
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-### **Languages**
-- JavaScript (ES6+), TypeScript, Java, SQL
+### **Programming Languages**  
+- **JavaScript, TypeScript, Java, SQL**  
 
-### **Frontend Development**
-- React, Next.js, Angular, React Native
-- Tailwind CSS, Bootstrap, ShadeCN UI
-- Chart.js, Recharts, Highcharts
-- PWA (Progressive Web Apps)
+### **Frontend Development**  
+- **Frameworks & Libraries**: React, Next.js, Angular, React Native  
+- **UI & Styling**: Tailwind CSS, Bootstrap, ShadCN UI  
+- **Data Visualization**: Chart.js, Recharts, Highcharts  
+- **Others**: Progressive Web Apps (PWA)  
 
-### **Backend Development**
-- Node.js, Bun.js, Kafka
-- Express.js, Hono.js
-- Java (Spring Boot)
-- RESTful APIs, GraphQL
-- WebSocket, SSE (Server-Sent Events)
-- BullMQ (Task Queue)
+### **Backend Development**  
+- **Frameworks & Runtime**: Node.js, Bun.js, Java (Spring Boot)  
+- **APIs & Architecture**: Express.js, Hono.js, RESTful APIs, GraphQL  
+- **Real-time & Event-Driven**: Kafka, WebSocket, Server-Sent Events (SSE)  
+- **Task Queues & Background Jobs**: BullMQ  
 
-### **Databases**
-- PostgreSQL, MongoDB, MySQL, SQLite
-- Mongoose, Prisma, Drizzle ORM
-- **pg_vector** (PostgreSQL extension for vector similarity search)
+### **Databases**  
+- **Relational**: PostgreSQL, MySQL, SQLite  
+- **NoSQL**: MongoDB, Redis, Elasticsearch  
+- **ORMs & Query Builders**: Mongoose, Prisma, Drizzle ORM  
+- **Specialized**: `pg_vector` (Vector similarity search in PostgreSQL)  
 
-### **DevOps & Tools**
-- Docker, Docker Compose
-- Nginx, Redis
-- Git, GitHub Actions
-- Jira
+### **DevOps & Tools**  
+- **Containerization & Infrastructure**: Docker, Docker Compose  
+- **Reverse Proxy & Caching**: Nginx, Redis  
+- **CI/CD & Version Control**: Git, GitHub Actions  
+- **Project Management**: Jira  
 
-### **Cloud & Hosting**
-- AWS S3, Firebase, Vercel, Netlify
-- Linux VPS (Ubuntu, Debian)
+### **Cloud & Hosting**  
+- **Cloud Services**: AWS S3, Firebase  
+- **Hosting Platforms**: Vercel, Netlify  
+- **Operating Systems**: Linux (Ubuntu, Debian)  
 
-### **State Management**
-- Redux, Zustand, Context API
+### **State Management**  
+- Redux, Zustand, Context API  
 
-### **Authentication & Security**
-- OAuth, JWT, Firebase Auth
-- Passport.js
+### **Authentication & Security**  
+- OAuth, JWT, Firebase Auth  
+- Passport.js, Keycloak  
 
-### **Others**
-- Testing (Jest, Mocha, Cypress)
-- Data Visualization & Dashboards
-- Task Queues & Background Jobs (BullMQ)
-- Workflow Management (Jira)
+### **Testing & Quality Assurance**  
+- Jest, Mocha, Cypress  
 
----
+### **Others**  
+- **Data Visualization & Dashboards**  
+- **Workflow Automation & Task Management** (Jira)  
 
-## 📈 GitHub Stats
+---  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3v-tushar&show_icons=true&theme=radical" alt="Tushar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3v-tushar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📫 Let's Connect!  
 
----
+- 🌐 **[Portfolio](https://github.com/d3v-tushar)**  
+- 🐦 **[Twitter/X](https://x.com/this_tushr)**  
+- 📘 **[Facebook](https://www.facebook.com/this.tushr)**  
 
-## 📫 Let's Connect!
+*(LinkedIn profile is currently disabled.)*  
 
-- 💼 [LinkedIn](https://linkedin.com/in/tushar) *(Disabled Now)*
-- 🌐 [Portfolio](https://tushar.dev) *(Disabled Now)*
-- 🐦 [Twitter](https://twitter.com/tushar_dev) *(Disabled Now)*
+---  
 
----
+## 👨‍💻 Open to Opportunities  
 
-## 👨‍💻 Open to Opportunities
+I am open to exciting **collaborations, freelance work, and innovative projects**. Feel free to reach out!  
 
-I'm currently open to collaborating on innovative projects and freelance opportunities. Feel free to reach out!
+⭐ **Explore my repositories and join me in contributing to open-source projects!**  
 
 ---
 
-⭐️ *Explore my repositories and join me in contributing to open-source projects!*
+### ✨ *Let's build something amazing together!* 🚀  
